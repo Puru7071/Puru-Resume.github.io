@@ -67,7 +67,7 @@ function givePercentage(){
 givePercentage() ; 
 
 window.addEventListener("scroll" ,function(){
-    if(document.getElementById("contact").getBoundingClientRect().top <= 61){
+    if(document.getElementById("Certifications").getBoundingClientRect().top <= 61){
         return ; 
     }
     givePercentage() ; 

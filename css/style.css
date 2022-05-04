@@ -234,8 +234,8 @@ main section:nth-child(2n){
     align-content: space-around;
 }
 .Portfolio div div{
-    width: 400px;
-    height: 400px; 
+    width: 300px;
+    height: 300px; 
     display: flex;
     flex-direction: column;
     justify-content: center;

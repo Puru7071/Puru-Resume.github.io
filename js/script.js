@@ -57,7 +57,7 @@ window.addEventListener("scroll",function(){
 
 function givePercentage(){
     let hght = document.documentElement.scrollHeight ; 
-    let contactDiv = document.getElementById("head1").getBoundingClientRect().top; 
+    let contactDiv = document.getElementById("Certifications").getBoundingClientRect().top; 
     let perecentIs = -(contactDiv - 570)/hght * 100 ; 
     console.log(hght + " " + contactDiv) ; 
     perecentIs = Math.floor(perecentIs) ; 

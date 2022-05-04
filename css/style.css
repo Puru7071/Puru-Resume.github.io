@@ -323,7 +323,7 @@ main section:nth-child(2n){
     border-radius: 27px;
     background-color: #d3d3d3 ;
     top: 27%;
-    right: -24.4%;
+    right: -24%;
     z-index: 1;
 }
 .even::after{
@@ -334,7 +334,7 @@ main section:nth-child(2n){
     border-radius: 27px;
     background-color: #d3d3d3;
     top: 27%;
-    left: -21.4%;
+    left: -21%;
     z-index: 1;
 }
 .My_edu{
